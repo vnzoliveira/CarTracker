@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.DS_Store
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos de execução
+*.mp4
+*.avi
+*.mov
+
+# Pastas de saída
+/assets/placas/
+*.jpg
+*.png
+
+# Arquivos de modelo grandes (se não versionar com Git LFS)
+*.pt
+
+# Arquivos do sistema
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Ignore arquivos de configuração pessoal
+*.swp
+*.swo
