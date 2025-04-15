@@ -34,7 +34,7 @@ CPO2-DATAVIZ/
 
 1. **Clone o repositório (ou baixe o ZIP):**
    ```bash
-   git clone https://github.com/seu-usuario/CPO2-DATAVIZ.git
+   git clone https://github.com/seu-usuario/CarTracker.git
    cd CPO2-DATAVIZ
    ```
 
